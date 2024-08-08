@@ -57,9 +57,13 @@ static bool StartProgram()
         
         int square = i * i;
         int cube = i * i * i;
-        Console.WriteLine($"{i}\t\t{square}\t\t{cube}");
-        
-        
+    //    Console.WriteLine($"{i}\t\t{square}\t\t{cube}");
+        Console.WriteLine(string.Format("{0,10} {1,10} {2,10}", i,square,cube));
+
+        //  Console.WriteLine(string.Format("{0,10} {1,10} {2,10}", i, Square(i), Cube(i))); //this is the right align code
+
+
+
     }
 
 

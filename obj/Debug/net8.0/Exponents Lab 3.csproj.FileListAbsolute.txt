@@ -12,3 +12,4 @@ C:\Users\imper\source\repos\Exponents Lab 3\Exponents Lab 3\obj\Debug\net8.0\ref
 C:\Users\imper\source\repos\Exponents Lab 3\Exponents Lab 3\obj\Debug\net8.0\Exponents Lab 3.pdb
 C:\Users\imper\source\repos\Exponents Lab 3\Exponents Lab 3\obj\Debug\net8.0\Exponents Lab 3.genruntimeconfig.cache
 C:\Users\imper\source\repos\Exponents Lab 3\Exponents Lab 3\obj\Debug\net8.0\ref\Exponents Lab 3.dll
+C:\Users\imper\source\repos\Exponents Lab 3\Exponents Lab 3\obj\Debug\net8.0\Exponents Lab 3.sourcelink.json
